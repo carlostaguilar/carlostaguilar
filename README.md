@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a Java Developer with over 3 years of experience, specializing in the financial sector. I'm passionate about leveraging technology to solve complex problems and continuously push the boundaries of what's possible.<br><br>Currently, I'm dedicated to expanding my knowledge and skills through ongoing studies and challenging myself with new projects. I believe in the power of continuous learning and staying up-to-date with the latest industry trends.<br><br>On my GitHub, you'll find a collection of my work, showcasing my journey in software development. Feel free to explore, contribute, or reach out if you have any questions or opportunities for collaboration.
+Hello! I'm a Java Developer with over 3 years of experience, specializing in the financial sector. I'm passionate about leveraging technology to solve complex problems and continuously push the boundaries of what's possible.<br><br>Currently, I'm dedicated to expanding my knowledge and skills through ongoing studies and challenging myself with new projects. I believe in the power of continuous learning and staying up-to-date with the latest industry trends.<br><br>
 
 
 ## 🌐 Socials:
